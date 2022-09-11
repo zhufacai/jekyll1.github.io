@@ -1,16 +1,15 @@
 ---
-layout: post
-cid: 1645
-title: WordPress后台开启链接管理功能
-slug: wordpress后台开启链接管理功能
-date: 2020/01/09 16:04:25
-updated: 2020/12/16 20:12:54
-status: publish
-author: Joker
-categories: 
-  - Codes
-tags: 
+layout:  post
+id:  1645
+title:  "WordPress后台开启链接管理功能"
+slug:  "wordpress后台开启链接管理功能"
+categories:  "Codes"
+tags:  ""
+permalink:  "/archives/:slug.html"
+author:  "Joker"
+date:  2020-01-09 16:04:25
 ---
+
 
 
 <ul>

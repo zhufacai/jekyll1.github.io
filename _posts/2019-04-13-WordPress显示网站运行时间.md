@@ -1,16 +1,15 @@
 ---
-layout: post
-cid: 1346
-title: WordPress显示网站运行时间
-slug: wordpress显示网站运行时间
-date: 2019/04/13 10:59:15
-updated: 2020/12/16 20:12:54
-status: publish
-author: Joker
-categories: 
-  - Codes
-tags: 
+layout:  post
+id:  1346
+title:  "WordPress显示网站运行时间"
+slug:  "wordpress显示网站运行时间"
+categories:  "Codes"
+tags:  ""
+permalink:  "/archives/:slug.html"
+author:  "Joker"
+date:  2019-04-13 10:59:15
 ---
+
 
 
 <ol>

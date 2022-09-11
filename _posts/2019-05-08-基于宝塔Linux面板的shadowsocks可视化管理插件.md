@@ -1,16 +1,15 @@
 ---
-layout: post
-cid: 1366
-title: 基于宝塔Linux面板的shadowsocks可视化管理插件
-slug: 基于宝塔linux面板的shadowsocks可视化管理插件
-date: 2019/05/08 17:56:40
-updated: 2020/12/16 20:12:54
-status: publish
-author: Joker
-categories: 
-  - Codes
-tags: 
+layout:  post
+id:  1366
+title:  "基于宝塔Linux面板的shadowsocks可视化管理插件"
+slug:  "基于宝塔linux面板的shadowsocks可视化管理插件"
+categories:  "Codes"
+tags:  ""
+permalink:  "/archives/:slug.html"
+author:  "Joker"
+date:  2019-05-08 17:56:40
 ---
+
 
 
 <ul>
