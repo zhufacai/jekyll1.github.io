@@ -47,25 +47,10 @@ Events:
 -----------
 
 [1]: https://cloud.joker.cc
-[2]: https://gist.github.com/sighingnow/505d3d5c82237741b4a18147b2f84811
-[3]: https://gist.github.com/sighingnow/96946f539342085a0759474d5389af7a
-[4]: https://gist.github.com/sighingnow
-[5]: https://summerofcode.withgoogle.com
-[6]: https://osa1.net/
-[7]: https://wiki.haskell.org/ThreadScope
-[8]: https://etcd.io/
-[9]: https://github.com/etcd-cpp-apiv3/etcd-cpp-apiv3
-[10]: https://github.com/sighingnow/libclang
-[11]: https://github.com/BHOSC
-[12]: https://github.com/BHOSC/BUAAthesis
-[13]: https://gist.github.com/sighingnow/dbe8b05483a786855e4d498019419cc4
-[14]: https://gist.github.com/sighingnow/d0fb727c77f0d1e68143dd8157a30b0b
-[15]: https://gist.github.com/sighingnow/9996851945408e8a960f81bf262260a1
-[16]: https://gitlab.haskell.org/ghc
-[17]: https://github.com/apache/arrow
-[18]: https://github.com/pandas-dev/pandas
-[19]: https://github.com/apache/incubator-mxnet
-[20]: https://github.com/pytorch/pytorch
-[21]: https://gist.github.com/sighingnow/4988a0100bc5030d301926f79254133a
-[22]: https://github.com/sighingnow
-[23]: https://www.youtube.com/watch?v=8fi7uSYlOdc
+[2]: http://timemail.joker.cc
+[3]: https://down.joker.cc
+[4]: http://222.ee
+[5]: https://kmstool.vercel.app
+[6]: https://music.joker.cc
+[7]: https://api.jokerx.vercel.app
+[8]: https://bing.jokerx.vercel.app
