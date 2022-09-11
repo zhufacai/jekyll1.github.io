@@ -2,16 +2,15 @@
 layout: home
 ---
 
-I'm Joker.
+菜鸟 / 咸鱼 / 诗人→_→
+
+记录每一个平凡的日落日升...
 
 
 ./Projects
 ----------
 
-#### ./BUAAThesis
-
-I'm proudly a member of [BHOSC][11] and under the umbrella of this origanization I'm
-co-maintaining [the LaTeX template for thesis of Beihang University][12].
+#### ./[Cloud][1]
 
 #### ./etcd-cpp-apiv3
 
@@ -47,7 +46,7 @@ way of coding.
 ./Pageviews
 -----------
 
-[1]: https://gist.github.com/sighingnow/086ac1b32f8ea3ba84d4
+[1]: https://cloud.joker.cc
 [2]: https://gist.github.com/sighingnow/505d3d5c82237741b4a18147b2f84811
 [3]: https://gist.github.com/sighingnow/96946f539342085a0759474d5389af7a
 [4]: https://gist.github.com/sighingnow
