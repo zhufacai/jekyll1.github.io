@@ -2,20 +2,8 @@
 layout: home
 ---
 
-I'm Joker. I'm a graduate student in Beihang University, majoring in
-Computer Science and Engineering. I received my bachelor degree from
-Beihang University at 2017.
+I'm Joker.
 
-
-./Computer Science and Engineering
-----------------------------------
-
-I'm a Haskell enthusiast. I have submitted some patches to GHC and hadrian. I have
-also contributed to many open source projects, such as [ghc][16], [apache-arrow][17],
-[pandas][18], [mxnet][19], [pytorch][20], [etcd-cpp-apiv3][9], and [more][22] ...
-
-I'm working on cloud-native engineering and thinking about how to make the computational
-systems efficient, observable and robust.
 
 ./Projects
 ----------
@@ -36,21 +24,6 @@ I have also submitted a bunch of bug fixes as well.
 After bringing the library to live again, it has received a lot of "thanks" from the
 community.
 
-#### ./libclang
-
-The python package [libclang][10] is an unofficial release for libclang (aka. `clang.cindex`)
-from the LLVM project. It includes prebuilt libclang binary to Linux, MacOS and Windows,
-reducing the burden of installing libclang python package a lot, without requiring a full
-installation of LLVM and clang.
-
-#### ./GSoC
-
-I'm proudly a participant of **[GSoC 2019][5]** this summer in the Haskell community
-supervised by [Ömer Sinan Ağacan][6], aimed at making the profiling tool
-**[ThreadScope][7]** suitable for processing large eventlogs.
-
-I write **[a series of blogs](./topic/gsoc)** about the project regularly. Due to personal
-reason I missed the evaluation deadline of GSoC, unfortunally.
 
 ./Writings
 ----------
@@ -69,17 +42,7 @@ way of coding.
   <li class="alink"><a href="./blog/" class="red-link">&hellip;&hellip;</a></li>
 </ul>
 
-./Gists
--------
 
-+ [./containers-from-scratch.rs][21]: Rust version of "Containers From Scratch" by Liz Rice, [https://www.youtube.com/watch?v=8fi7uSYlOdc][23]
-+ [./$.hs][15]: A type-level `$` operator for Haskell.
-+ [./list_live_objects.py][13] A utility to inspect all live objects (of specified type) in current Python execution context.
-+ [./tensorboard_logging.py][14]: A logger that write scalars, images as well as histograms to tensorboard outside the context of tensorflow ops.
-+ [./hemispheres.mma][3] Drawing is as easy as 1,2,3 with Mathematica.
-+ [./cpp-tricks.md][2] Modern C++ is so amazing!
-+ [./.vimrc][1] I use VIM to write fancy programs.
-+ [./&hellip;&hellip;][4]
 
 ./Pageviews
 -----------
