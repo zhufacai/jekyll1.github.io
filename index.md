@@ -2,33 +2,33 @@
 layout: home
 ---
 
-菜鸟 / 咸鱼 / 诗人→_→
-
-记录每一个平凡的日落日升...
+I’m Joker.
 
 
-./Projects
+./MyLinks
 ----------
 
 #### ./[Cloud][1]
 
-#### ./etcd-cpp-apiv3
+#### ./[TimeMail][2]
 
-I maintain the de-facto C++ client library [etcd-cpp-apiv3][9] for [etcd][8]. The
-library was first developed by nokia and open source under the BSD-3 License hasn't
-been updated for years. I'm currently maintaining the library, and implemented features
-like `watch`, `lease`, `lock` and enabled both token based and certificate based authentication,
-I have also submitted a bunch of bug fixes as well.
+#### ./[Download][3]
 
-After bringing the library to live again, it has received a lot of "thanks" from the
-community.
+#### ./[Whois][4]
+
+#### ./[KmsTool][5]
+
+#### ./[Music][6]
+
+#### ./[NetseaMusic-api][7]
+
+#### ./[BingPic-api][8]
 
 
 ./Writings
 ----------
 
-I write blogs regularly at Github Pages to record things inspire me along the
-way of coding.
+Events:
 
 <ul>
   {% for post in site.posts limit:6 %}
