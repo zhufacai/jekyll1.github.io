@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {{ content }}
+
+  {%- if jekyll.environment != 'dev' -%}
+    {%- include clustr_maps.html -%}
+  {%- endif -%}
+
+</div>

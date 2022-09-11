@@ -1,0 +1,10 @@
+_drafts/
+_site/
+.sass-cache/
+.jekyll-cache
+.jekyll-metadata
+
+*.exe
+*.class
+*.pyc
+
