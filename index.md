@@ -43,8 +43,6 @@ Events:
 
 
 
-./Pageviews
------------
 
 [1]: https://cloud.joker.cc
 [2]: http://timemail.joker.cc
